@@ -1,2 +1,3 @@
-This is a very big test file with one single sentence!
-Yo Yo Yo Nigga!!!
+This is line 1.
+This is line 2
+This is line 3
